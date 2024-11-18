@@ -5,6 +5,7 @@ Created on Sun Nov 17 18:48:17 2024
 @author: smithlt
 """
 
+
 import fenics
 from fenics import *
 import numpy as np
